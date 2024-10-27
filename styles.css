@@ -1,7 +1,28 @@
 body {
-background-color: #000
-transition: background-color 0.5s erase-in-out;
+  background-color: black;
+  color: white;
 }
-body:hover {
-background-color: #fff
+marquee {
+  color: #366;
+}
+.center {
+   text-align: center;
+ }
+.text-1 {
+   margin-right: 70px;
+   color: red;
+   font-size: 15px;
+ }
+.text-2 {
+  margin-right: 100px;
+  color: red;
+  font-size: 15px;
+}
+.background {
+  background-color: white;
+  font-size: 10px;
+}
+.text-3 {
+  color: red;
+  font-size: 15px;
 }
